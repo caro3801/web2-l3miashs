@@ -1,0 +1,55 @@
+---
+title: "UE601V - L3MIASHS"
+author: "Descamps Blandine et Caroline Desprat"
+date: "30/01/2018"
+output: 
+  html_document: 
+    theme: flatly
+    toc: yes
+    toc_depth: 2
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Présentation de l'UE Web2
+
+Aperçu des différents frameworks front end actuels
+
+## Modalités d'évaluation
+* Projet 
+* Contrôle terminal 1h30
+
+## Intervenantes
+- Blandine Descamps &lt;blandine.descamps AT ling.fr&gt;
+- Caroline Desprat &lt;caroline.desprat AT irit.fr&gt;
+Bureau GS204
+
+
+# Contenu du cours
+
+## Pré-requis
+Cours de JavaScript S5
+
+## Outils de développement
+- IDE JavaScript (Visual Studio Code, WebStorm)
+- Terminal : Git, npm, node
+
+## Cours de l'UE
+1. JQuery - 2h TP - 23/01/2018
+    - Support ([PDF](cours1/jquery.pdf), [HTML](cours1/jquery.html), [MD](cours1/jquery.Rmd))
+    - TP Ajax ([PDF](tp1/TP-Ajax.pdf)) : 
+        - [page.html](tp1/page.html)
+        - [script.js](tp1/script.js)
+        - [script_corrige.js](tp1/script_corrige.js)
+2. Bootstrap - LESS 2h CM / 2h TP - 30/01/2018
+    - Support ([PDF](cours2/bootstrapless.pdf), [HTML](cours2/bootstrapless.html), [MD](cours2/bootstrapless.Rmd))
+    - TP Bootstrap LESS ([PDF](tp2/TP2_MemoLoL_Boostrap_LESS.pdf)) 
+3. Angular 1.*
+    - Support (TBA)
+    - TP Angular ([PDF](tp3/TP2_MemoLoL_Angular.pdf)) 
+4. React/redux
+5. Node.JS

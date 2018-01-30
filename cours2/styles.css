@@ -1,0 +1,19 @@
+.small .prettyprint{
+	font-size: 8pt;
+	line-height:1.5em;
+}
+.medium .prettyprint{
+	font-size: 10pt;
+	line-height:1.5em;
+}
+
+.column-left{
+  float: left;
+  width: 48%;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  width: 48%;
+}
